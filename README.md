@@ -95,4 +95,22 @@ We trained a deep neural network on the dataset using different hyperparameter t
 ---
 
 ## 📁 Project Structure
+```
+maternal-health-risk-analysis/
+├── random_search_model.ipynb
+├── bayesian_optimization_model.ipynb
+├── hyperband_optimization_model.ipynb
+├── maternal_health_final_notebook.ipynb
+└── README.md
+```
+---
+
+## 📨 Contact
+
+📧 Hrishikagupta15@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/hrishikagupta15)
+
+---
+
+> ⭐ **If you found this useful, consider starring the repo!**
 
