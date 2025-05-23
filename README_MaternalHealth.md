@@ -93,20 +93,8 @@ maternal-health-risk-analysis/
 ├── bayesian_optimization_model.ipynb
 ├── hyperband_optimization_model.ipynb
 ├── maternal_health_final_notebook.ipynb
-├── Group6_AIDL_Project.pdf
 └── README.md
 ```
-
----
-
-## 👥 Team
-
-- Hrishika Shalvi Gupta  
-- Apurva Gangamwar  
-- Durgesh Mishra  
-- Suhani Chaudhary  
-- Hency Sethi  
-- Siamthanpari
 
 ---
 
